@@ -51,7 +51,7 @@ int main()
                 window.close();
         }
 
-        if(time1.asSeconds() > .001){
+        if(time1.asSeconds() > .005){ //Lets relax a little
             //playY -=1;
             /*
             if(falling){
